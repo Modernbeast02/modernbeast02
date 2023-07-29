@@ -35,3 +35,5 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=modernbeast02&show_icons=true&theme=github_dark" width=49.5% alt="Github Stats" align="center" style="margin-right:30px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernbeast02&layout=compact&theme=github_dark&langs_count=8" width=37.5% alt="Github Stats" align="center">
+</div>
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
