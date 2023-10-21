@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! I'm Ankur Gupta</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Modernbeast02/modernbeast02/assets/89138051/3738f899-0194-4e93-9f4c-0d238a36deb7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modernbeast02&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="modernbeast02" /> </p>
+
 
 - 🔭 I’m currently working on **improving Competitive Programming skills**
 
